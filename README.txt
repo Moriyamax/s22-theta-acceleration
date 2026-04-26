@@ -1,4 +1,3 @@
-README
 Fast calculation of high-dimensional Siegel theta functions (g>20) for structured period matrices (soliton solutions and more).
 
 Precision and Accuracy
@@ -7,6 +6,17 @@ The factorization is based on a rigorous identity for theta functions,
 meaning it introduces zero theoretical error when the period matrix is perfectly block-diagonal.
 The only deviations are those inherent to standard floating-point arithmetic.
 
+Note: The method is most effective for structured period matrices.
+Extension to general cases requires further investigation.
+
+Potential Applications
+This implementation is relevant to:
+- Numerical computation of high-dimensional theta functions
+- Period matrix evaluation in Hitchin systems
+- Integrable systems and soliton solutions
+- Algebraic geometry and arithmetic theta functions
+- Spectral curve analysis in mathematical physics
+
 S(2,2)-Based Acceleration of High-Dimensional Riemann Theta Functions
 Benchmark Script for naive and s22 modes.
 This repository provides a benchmark implementation for computing high-dimensional Riemann theta functions using two modes:
@@ -14,10 +24,7 @@ This repository provides a benchmark implementation for computing high-dimension
 s22   : S(2,2) decomposition (two naive theta evaluations of sizes g1 and g2)
 naive : full naive theta evaluation in dimension g
 
-The goal is to demonstrate the dramatic computational speedup obtained by exploiting the block structure that appears on the S(2,2) locus of the GL(4) Hitchin system.
-
 For example, for g = 17 and N_cut = 2:
-
 naive (17D) estimated runtime: about 3,900,000 seconds (about 45 days)
 s22 (8D + 9D) measured runtime: about 13 seconds
 This corresponds to an effective speedup of roughly 1e5 times.
