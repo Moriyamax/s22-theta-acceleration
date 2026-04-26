@@ -17,6 +17,19 @@ This implementation is relevant to:
 - Algebraic geometry and arithmetic theta functions
 - Spectral curve analysis in mathematical physics
 
+Benchmarking and Validation
+Since high-dimensional theta functions are often approximated in practice,
+this implementation can serve as a reference for validating such approximations.
+
+In particular, it enables:
+- quantitative error estimation of approximation formulas
+- verification of asymptotic expansions
+- numerical cross-checks in regimes where direct computation was previously infeasible (g > 20)
+
+This makes it useful as a benchmarking tool across mathematical physics,
+integrable systems, and computational aspects of theta functions.
+
+
 S(2,2)-Based Acceleration of High-Dimensional Riemann Theta Functions
 Benchmark Script for naive and s22 modes.
 This repository provides a benchmark implementation for computing high-dimensional Riemann theta functions using two modes:
