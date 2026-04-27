@@ -34,7 +34,7 @@ Note: For g=20,000, the absolute value of the theta function is so large that it
 - Standard libraries: LinearAlgebra, Random, Printf, JSON.
 
 ### Running the Engine
-```bash
+
 julia --threads auto RLD_theta_engine.jl
 
 Technical Details
