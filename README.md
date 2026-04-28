@@ -57,7 +57,7 @@ g_list: List of dimensions to test (e.g., [16, 20000]).
 N_cut: Summation limit for the base-case naive calculation.
 use_log_output: Set to true to display results in log-format, avoiding conversion errors for huge numbers.
 
-##Note on scope and generality  
+## Note on scope and generality  
 This repository implements the S(2,2) case because it is the most efficient and practical example for demonstrating the phenomenon.
 Although S(2,2) has a block‑diagonal form, the main research result does not claim that the observed acceleration arises merely from standard block diagonalization.
 The broader concept—Recursively Reducible Theta Structures—includes S(k,k) families (k = 2,3,5,…) and mixed‑basis decompositions that are not equivalent to classical block diagonal factorization.
