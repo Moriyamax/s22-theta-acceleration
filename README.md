@@ -59,3 +59,5 @@ use_log_output: Set to true to display results in log-format, avoiding conversio
 
 ## Repository
 Developed as part of the s22-theta-acceleration project.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19829340.svg)](https://doi.org/10.5281/zenodo.19829340)
