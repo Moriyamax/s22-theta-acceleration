@@ -1,0 +1,962 @@
+[
+    {
+        "abs_err_log": null,
+        "g": 16,
+        "is_log_format": true,
+        "log_val_im": -7.069912695738473,
+        "log_val_re": 3.274497989316127,
+        "loop": 1,
+        "time_rec": 0.18999981880187988,
+        "timestamp": "2026-04-29T08:21:15"
+    },
+    {
+        "abs_err_log": null,
+        "g": 17,
+        "is_log_format": true,
+        "log_val_im": -7.13748635388224,
+        "log_val_re": 4.230283014491662,
+        "loop": 1,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:21:16"
+    },
+    {
+        "abs_err_log": null,
+        "g": 18,
+        "is_log_format": true,
+        "log_val_im": -7.412445715331197,
+        "log_val_re": 5.110424837626059,
+        "loop": 1,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:21:16"
+    },
+    {
+        "abs_err_log": null,
+        "g": 19,
+        "is_log_format": true,
+        "log_val_im": -9.791768657234359,
+        "log_val_re": 4.128253099975381,
+        "loop": 1,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:21:16"
+    },
+    {
+        "abs_err_log": null,
+        "g": 20,
+        "is_log_format": true,
+        "log_val_im": -10.039454067949507,
+        "log_val_re": 5.351524952425789,
+        "loop": 1,
+        "time_rec": 0.016000032424926758,
+        "timestamp": "2026-04-29T08:21:16"
+    },
+    {
+        "abs_err_log": null,
+        "g": 25,
+        "is_log_format": true,
+        "log_val_im": -10.581234244996448,
+        "log_val_re": 7.451413250297047,
+        "loop": 1,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:21:16"
+    },
+    {
+        "abs_err_log": null,
+        "g": 30,
+        "is_log_format": true,
+        "log_val_im": -11.292723357902435,
+        "log_val_re": 9.659225487191723,
+        "loop": 1,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:21:16"
+    },
+    {
+        "abs_err_log": null,
+        "g": 50,
+        "is_log_format": true,
+        "log_val_im": -17.312452691261996,
+        "log_val_re": 19.770082598507997,
+        "loop": 1,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:21:16"
+    },
+    {
+        "abs_err_log": null,
+        "g": 100,
+        "is_log_format": true,
+        "log_val_im": -20.97475294767709,
+        "log_val_re": 48.342824954138806,
+        "loop": 1,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:21:16"
+    },
+    {
+        "abs_err_log": null,
+        "g": 999,
+        "is_log_format": true,
+        "log_val_im": 29.846907653310844,
+        "log_val_re": 504.77864899091867,
+        "loop": 1,
+        "time_rec": 0.016000032424926758,
+        "timestamp": "2026-04-29T08:21:16"
+    },
+    {
+        "abs_err_log": null,
+        "g": 1500,
+        "is_log_format": true,
+        "log_val_im": 63.889656531093806,
+        "log_val_re": 756.6243122717101,
+        "loop": 1,
+        "time_rec": 0.04800009727478027,
+        "timestamp": "2026-04-29T08:21:16"
+    },
+    {
+        "abs_err_log": null,
+        "g": 15000,
+        "is_log_format": true,
+        "log_val_im": 268.0860057191641,
+        "log_val_re": 7579.730885362114,
+        "loop": 1,
+        "time_rec": 3.5379998683929443,
+        "timestamp": "2026-04-29T08:21:20"
+    },
+    {
+        "abs_err_log": null,
+        "g": 20000,
+        "is_log_format": true,
+        "log_val_im": 270.8778015396368,
+        "log_val_re": 10098.91420250053,
+        "loop": 1,
+        "time_rec": 19.441999912261963,
+        "timestamp": "2026-04-29T08:21:42"
+    },
+    {
+        "abs_err_log": null,
+        "g": 22000,
+        "is_log_format": true,
+        "log_val_im": 469.3773396093171,
+        "log_val_re": 11077.385141149924,
+        "loop": 1,
+        "time_rec": 15.332000017166138,
+        "timestamp": "2026-04-29T08:22:01"
+    },
+    {
+        "abs_err_log": null,
+        "g": 24000,
+        "is_log_format": true,
+        "log_val_im": 440.52412013548224,
+        "log_val_re": 12097.47772537265,
+        "loop": 1,
+        "time_rec": 19.14900016784668,
+        "timestamp": "2026-04-29T08:22:28"
+    },
+    {
+        "abs_err_log": null,
+        "g": 26000,
+        "is_log_format": true,
+        "log_val_im": 411.8929279130884,
+        "log_val_re": 13075.25862264412,
+        "loop": 1,
+        "time_rec": 19.608999967575073,
+        "timestamp": "2026-04-29T08:22:59"
+    },
+    {
+        "abs_err_log": null,
+        "g": 16,
+        "is_log_format": true,
+        "log_val_im": 11.762777450105679,
+        "log_val_re": 6.697685188521262,
+        "loop": 2,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:23:14"
+    },
+    {
+        "abs_err_log": null,
+        "g": 17,
+        "is_log_format": true,
+        "log_val_im": 9.379896757149915,
+        "log_val_re": 6.525085438462199,
+        "loop": 2,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:23:14"
+    },
+    {
+        "abs_err_log": null,
+        "g": 18,
+        "is_log_format": true,
+        "log_val_im": 9.187605541771692,
+        "log_val_re": 7.555646118207314,
+        "loop": 2,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:23:14"
+    },
+    {
+        "abs_err_log": null,
+        "g": 19,
+        "is_log_format": true,
+        "log_val_im": 9.128130637671381,
+        "log_val_re": 8.130466611708624,
+        "loop": 2,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:23:14"
+    },
+    {
+        "abs_err_log": null,
+        "g": 20,
+        "is_log_format": true,
+        "log_val_im": 6.972778905967095,
+        "log_val_re": 7.90727410045222,
+        "loop": 2,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:23:14"
+    },
+    {
+        "abs_err_log": null,
+        "g": 25,
+        "is_log_format": true,
+        "log_val_im": 11.877418398576713,
+        "log_val_re": 5.66307588017132,
+        "loop": 2,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:23:14"
+    },
+    {
+        "abs_err_log": null,
+        "g": 30,
+        "is_log_format": true,
+        "log_val_im": 11.851421538137036,
+        "log_val_re": 10.67478315884085,
+        "loop": 2,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:23:14"
+    },
+    {
+        "abs_err_log": null,
+        "g": 50,
+        "is_log_format": true,
+        "log_val_im": 12.093499102821886,
+        "log_val_re": 13.942818487262098,
+        "loop": 2,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:23:14"
+    },
+    {
+        "abs_err_log": null,
+        "g": 100,
+        "is_log_format": true,
+        "log_val_im": 4.559696546134704,
+        "log_val_re": 25.57298735902916,
+        "loop": 2,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:23:14"
+    },
+    {
+        "abs_err_log": null,
+        "g": 999,
+        "is_log_format": true,
+        "log_val_im": 94.42096669366433,
+        "log_val_re": 518.5708191675983,
+        "loop": 2,
+        "time_rec": 0.04900002479553223,
+        "timestamp": "2026-04-29T08:23:14"
+    },
+    {
+        "abs_err_log": null,
+        "g": 1500,
+        "is_log_format": true,
+        "log_val_im": 79.6699106531863,
+        "log_val_re": 773.2487319214874,
+        "loop": 2,
+        "time_rec": 0.06399989128112793,
+        "timestamp": "2026-04-29T08:23:14"
+    },
+    {
+        "abs_err_log": null,
+        "g": 15000,
+        "is_log_format": true,
+        "log_val_im": -299.79162105484136,
+        "log_val_re": 7529.391949482459,
+        "loop": 2,
+        "time_rec": 2.328000068664551,
+        "timestamp": "2026-04-29T08:23:18"
+    },
+    {
+        "abs_err_log": null,
+        "g": 20000,
+        "is_log_format": true,
+        "log_val_im": -442.9134618197452,
+        "log_val_re": 10068.099842908781,
+        "loop": 2,
+        "time_rec": 16.882999897003174,
+        "timestamp": "2026-04-29T08:23:37"
+    },
+    {
+        "abs_err_log": null,
+        "g": 22000,
+        "is_log_format": true,
+        "log_val_im": -343.30840750573543,
+        "log_val_re": 11085.560204597263,
+        "loop": 2,
+        "time_rec": 16.07699990272522,
+        "timestamp": "2026-04-29T08:23:57"
+    },
+    {
+        "abs_err_log": null,
+        "g": 24000,
+        "is_log_format": true,
+        "log_val_im": -300.4017659403601,
+        "log_val_re": 12057.753472456749,
+        "loop": 2,
+        "time_rec": 19.805999994277954,
+        "timestamp": "2026-04-29T08:24:23"
+    },
+    {
+        "abs_err_log": null,
+        "g": 26000,
+        "is_log_format": true,
+        "log_val_im": -360.1662528612357,
+        "log_val_re": 13022.378849188477,
+        "loop": 2,
+        "time_rec": 18.39300012588501,
+        "timestamp": "2026-04-29T08:24:50"
+    },
+    {
+        "abs_err_log": null,
+        "g": 16,
+        "is_log_format": true,
+        "log_val_im": 13.50915774153073,
+        "log_val_re": 8.71085090993215,
+        "loop": 3,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:25:05"
+    },
+    {
+        "abs_err_log": null,
+        "g": 17,
+        "is_log_format": true,
+        "log_val_im": 13.333751808119757,
+        "log_val_re": 9.817240356455748,
+        "loop": 3,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:25:05"
+    },
+    {
+        "abs_err_log": null,
+        "g": 18,
+        "is_log_format": true,
+        "log_val_im": 13.601166720627257,
+        "log_val_re": 10.446549559599486,
+        "loop": 3,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:25:05"
+    },
+    {
+        "abs_err_log": null,
+        "g": 19,
+        "is_log_format": true,
+        "log_val_im": 13.336979528311076,
+        "log_val_re": 11.70147725808321,
+        "loop": 3,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:25:05"
+    },
+    {
+        "abs_err_log": null,
+        "g": 20,
+        "is_log_format": true,
+        "log_val_im": 14.170431450500551,
+        "log_val_re": 12.852378747147462,
+        "loop": 3,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:25:05"
+    },
+    {
+        "abs_err_log": null,
+        "g": 25,
+        "is_log_format": true,
+        "log_val_im": 12.637217738209923,
+        "log_val_re": 17.059342422546877,
+        "loop": 3,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:25:05"
+    },
+    {
+        "abs_err_log": null,
+        "g": 30,
+        "is_log_format": true,
+        "log_val_im": 18.931055253505313,
+        "log_val_re": 20.65107061119457,
+        "loop": 3,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:25:05"
+    },
+    {
+        "abs_err_log": null,
+        "g": 50,
+        "is_log_format": true,
+        "log_val_im": 27.57415004798433,
+        "log_val_re": 32.987049928753834,
+        "loop": 3,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:25:05"
+    },
+    {
+        "abs_err_log": null,
+        "g": 100,
+        "is_log_format": true,
+        "log_val_im": 19.745670898239247,
+        "log_val_re": 56.87191329749044,
+        "loop": 3,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:25:05"
+    },
+    {
+        "abs_err_log": null,
+        "g": 999,
+        "is_log_format": true,
+        "log_val_im": -14.042050713965502,
+        "log_val_re": 548.2288963639035,
+        "loop": 3,
+        "time_rec": 0.042999982833862305,
+        "timestamp": "2026-04-29T08:25:05"
+    },
+    {
+        "abs_err_log": null,
+        "g": 1500,
+        "is_log_format": true,
+        "log_val_im": -51.21782815489676,
+        "log_val_re": 797.9955143894662,
+        "loop": 3,
+        "time_rec": 0.06399989128112793,
+        "timestamp": "2026-04-29T08:25:05"
+    },
+    {
+        "abs_err_log": null,
+        "g": 15000,
+        "is_log_format": true,
+        "log_val_im": 56.916246329304286,
+        "log_val_re": 7639.8602015641,
+        "loop": 3,
+        "time_rec": 2.2869999408721924,
+        "timestamp": "2026-04-29T08:25:09"
+    },
+    {
+        "abs_err_log": null,
+        "g": 20000,
+        "is_log_format": true,
+        "log_val_im": 54.13387674510732,
+        "log_val_re": 10171.138134995193,
+        "loop": 3,
+        "time_rec": 17.597999811172485,
+        "timestamp": "2026-04-29T08:25:29"
+    },
+    {
+        "abs_err_log": null,
+        "g": 22000,
+        "is_log_format": true,
+        "log_val_im": 131.03540175805603,
+        "log_val_re": 11176.741277211455,
+        "loop": 3,
+        "time_rec": 16.192000150680542,
+        "timestamp": "2026-04-29T08:25:49"
+    },
+    {
+        "abs_err_log": null,
+        "g": 24000,
+        "is_log_format": true,
+        "log_val_im": 105.80089197906085,
+        "log_val_re": 12187.46199290426,
+        "loop": 3,
+        "time_rec": 19.460000038146973,
+        "timestamp": "2026-04-29T08:26:15"
+    },
+    {
+        "abs_err_log": null,
+        "g": 26000,
+        "is_log_format": true,
+        "log_val_im": 189.80885539933823,
+        "log_val_re": 13206.786988242206,
+        "loop": 3,
+        "time_rec": 20.259999990463257,
+        "timestamp": "2026-04-29T08:26:42"
+    },
+    {
+        "abs_err_log": null,
+        "g": 16,
+        "is_log_format": true,
+        "log_val_im": 3.231963496256933,
+        "log_val_re": 7.393913013443862,
+        "loop": 4,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:26:57"
+    },
+    {
+        "abs_err_log": null,
+        "g": 17,
+        "is_log_format": true,
+        "log_val_im": 6.2599747045456855,
+        "log_val_re": 7.213712628749688,
+        "loop": 4,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:26:57"
+    },
+    {
+        "abs_err_log": null,
+        "g": 18,
+        "is_log_format": true,
+        "log_val_im": 9.148398461872123,
+        "log_val_re": 6.768108776286319,
+        "loop": 4,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:26:57"
+    },
+    {
+        "abs_err_log": null,
+        "g": 19,
+        "is_log_format": true,
+        "log_val_im": 10.095024992300921,
+        "log_val_re": 7.3641280031559235,
+        "loop": 4,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:26:57"
+    },
+    {
+        "abs_err_log": null,
+        "g": 20,
+        "is_log_format": true,
+        "log_val_im": 9.493329582995596,
+        "log_val_re": 8.733837434248791,
+        "loop": 4,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:26:57"
+    },
+    {
+        "abs_err_log": null,
+        "g": 25,
+        "is_log_format": true,
+        "log_val_im": 12.60373587095079,
+        "log_val_re": 9.855541449973366,
+        "loop": 4,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:26:57"
+    },
+    {
+        "abs_err_log": null,
+        "g": 30,
+        "is_log_format": true,
+        "log_val_im": 12.289212556008323,
+        "log_val_re": 13.695232290157552,
+        "loop": 4,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:26:57"
+    },
+    {
+        "abs_err_log": null,
+        "g": 50,
+        "is_log_format": true,
+        "log_val_im": 10.43016500355443,
+        "log_val_re": 24.496423173151978,
+        "loop": 4,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:26:57"
+    },
+    {
+        "abs_err_log": null,
+        "g": 100,
+        "is_log_format": true,
+        "log_val_im": 13.58715103016811,
+        "log_val_re": 51.02530459484916,
+        "loop": 4,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:26:57"
+    },
+    {
+        "abs_err_log": null,
+        "g": 999,
+        "is_log_format": true,
+        "log_val_im": 54.86950702322374,
+        "log_val_re": 527.5009442626165,
+        "loop": 4,
+        "time_rec": 0.031000137329101562,
+        "timestamp": "2026-04-29T08:26:57"
+    },
+    {
+        "abs_err_log": null,
+        "g": 1500,
+        "is_log_format": true,
+        "log_val_im": 0.18513860813087035,
+        "log_val_re": 753.4658572798091,
+        "loop": 4,
+        "time_rec": 0.09599995613098145,
+        "timestamp": "2026-04-29T08:26:57"
+    },
+    {
+        "abs_err_log": null,
+        "g": 15000,
+        "is_log_format": true,
+        "log_val_im": -34.728977085335245,
+        "log_val_re": 7577.297218150523,
+        "loop": 4,
+        "time_rec": 2.1700000762939453,
+        "timestamp": "2026-04-29T08:27:02"
+    },
+    {
+        "abs_err_log": null,
+        "g": 20000,
+        "is_log_format": true,
+        "log_val_im": 22.881274227554584,
+        "log_val_re": 10082.73376248143,
+        "loop": 4,
+        "time_rec": 12.673999786376953,
+        "timestamp": "2026-04-29T08:27:16"
+    },
+    {
+        "abs_err_log": null,
+        "g": 22000,
+        "is_log_format": true,
+        "log_val_im": 61.69853530418631,
+        "log_val_re": 11068.678741838456,
+        "loop": 4,
+        "time_rec": 17.79200005531311,
+        "timestamp": "2026-04-29T08:27:38"
+    },
+    {
+        "abs_err_log": null,
+        "g": 24000,
+        "is_log_format": true,
+        "log_val_im": 76.24952266023458,
+        "log_val_re": 12026.723765506384,
+        "loop": 4,
+        "time_rec": 19.475000143051147,
+        "timestamp": "2026-04-29T08:28:05"
+    },
+    {
+        "abs_err_log": null,
+        "g": 26000,
+        "is_log_format": true,
+        "log_val_im": 64.35959646431986,
+        "log_val_re": 13060.797020316211,
+        "loop": 4,
+        "time_rec": 22.741000175476074,
+        "timestamp": "2026-04-29T08:28:35"
+    },
+    {
+        "abs_err_log": null,
+        "g": 16,
+        "is_log_format": true,
+        "log_val_im": 5.567721506604641,
+        "log_val_re": 12.260163906585161,
+        "loop": 5,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:28:51"
+    },
+    {
+        "abs_err_log": null,
+        "g": 17,
+        "is_log_format": true,
+        "log_val_im": 8.274022008142973,
+        "log_val_re": 12.645495903000931,
+        "loop": 5,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:28:51"
+    },
+    {
+        "abs_err_log": null,
+        "g": 18,
+        "is_log_format": true,
+        "log_val_im": 7.6712120706964,
+        "log_val_re": 14.049646626433663,
+        "loop": 5,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:28:51"
+    },
+    {
+        "abs_err_log": null,
+        "g": 19,
+        "is_log_format": true,
+        "log_val_im": 8.592308173355816,
+        "log_val_re": 14.665645781996586,
+        "loop": 5,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:28:51"
+    },
+    {
+        "abs_err_log": null,
+        "g": 20,
+        "is_log_format": true,
+        "log_val_im": 9.910495270781386,
+        "log_val_re": 14.503349254415044,
+        "loop": 5,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:28:51"
+    },
+    {
+        "abs_err_log": null,
+        "g": 25,
+        "is_log_format": true,
+        "log_val_im": 10.510176049171147,
+        "log_val_re": 17.428641897278467,
+        "loop": 5,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:28:51"
+    },
+    {
+        "abs_err_log": null,
+        "g": 30,
+        "is_log_format": true,
+        "log_val_im": 8.665046042556432,
+        "log_val_re": 19.530358492018337,
+        "loop": 5,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:28:51"
+    },
+    {
+        "abs_err_log": null,
+        "g": 50,
+        "is_log_format": true,
+        "log_val_im": 7.740638333044032,
+        "log_val_re": 29.99969989127932,
+        "loop": 5,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:28:51"
+    },
+    {
+        "abs_err_log": null,
+        "g": 100,
+        "is_log_format": true,
+        "log_val_im": 1.4366612728159334,
+        "log_val_re": 57.96419273807578,
+        "loop": 5,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:28:51"
+    },
+    {
+        "abs_err_log": null,
+        "g": 999,
+        "is_log_format": true,
+        "log_val_im": 18.358148608949282,
+        "log_val_re": 504.9607436282105,
+        "loop": 5,
+        "time_rec": 0.039999961853027344,
+        "timestamp": "2026-04-29T08:28:51"
+    },
+    {
+        "abs_err_log": null,
+        "g": 1500,
+        "is_log_format": true,
+        "log_val_im": -12.903422135855227,
+        "log_val_re": 771.087431301425,
+        "loop": 5,
+        "time_rec": 0.08000016212463379,
+        "timestamp": "2026-04-29T08:28:51"
+    },
+    {
+        "abs_err_log": null,
+        "g": 15000,
+        "is_log_format": true,
+        "log_val_im": -162.5949500763898,
+        "log_val_re": 7573.044024710144,
+        "loop": 5,
+        "time_rec": 2.3529999256134033,
+        "timestamp": "2026-04-29T08:28:56"
+    },
+    {
+        "abs_err_log": null,
+        "g": 20000,
+        "is_log_format": true,
+        "log_val_im": -162.17831362379982,
+        "log_val_re": 10078.176157159087,
+        "loop": 5,
+        "time_rec": 14.319000005722046,
+        "timestamp": "2026-04-29T08:29:13"
+    },
+    {
+        "abs_err_log": null,
+        "g": 22000,
+        "is_log_format": true,
+        "log_val_im": -109.05369929437057,
+        "log_val_re": 11070.852412985614,
+        "loop": 5,
+        "time_rec": 16.817999839782715,
+        "timestamp": "2026-04-29T08:29:33"
+    },
+    {
+        "abs_err_log": null,
+        "g": 24000,
+        "is_log_format": true,
+        "log_val_im": -219.60018428130002,
+        "log_val_re": 12051.559878227912,
+        "loop": 5,
+        "time_rec": 19.248000144958496,
+        "timestamp": "2026-04-29T08:29:59"
+    },
+    {
+        "abs_err_log": null,
+        "g": 26000,
+        "is_log_format": true,
+        "log_val_im": -235.67324701413315,
+        "log_val_re": 13054.705547283771,
+        "loop": 5,
+        "time_rec": 18.82100009918213,
+        "timestamp": "2026-04-29T08:30:25"
+    },
+    {
+        "abs_err_log": null,
+        "g": 16,
+        "is_log_format": true,
+        "log_val_im": 2.5069946685454254,
+        "log_val_re": 8.81208690972773,
+        "loop": 6,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:30:40"
+    },
+    {
+        "abs_err_log": null,
+        "g": 17,
+        "is_log_format": true,
+        "log_val_im": 2.2733533061601006,
+        "log_val_re": 9.166528533927265,
+        "loop": 6,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:30:40"
+    },
+    {
+        "abs_err_log": null,
+        "g": 18,
+        "is_log_format": true,
+        "log_val_im": 5.281109604302775,
+        "log_val_re": 8.503318779929486,
+        "loop": 6,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:30:40"
+    },
+    {
+        "abs_err_log": null,
+        "g": 19,
+        "is_log_format": true,
+        "log_val_im": 5.322402904899999,
+        "log_val_re": 9.696069575880603,
+        "loop": 6,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:30:40"
+    },
+    {
+        "abs_err_log": null,
+        "g": 20,
+        "is_log_format": true,
+        "log_val_im": 4.076632709378275,
+        "log_val_re": 9.072774425678112,
+        "loop": 6,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:30:40"
+    },
+    {
+        "abs_err_log": null,
+        "g": 25,
+        "is_log_format": true,
+        "log_val_im": 0.0005014374687903889,
+        "log_val_re": 12.911418020627762,
+        "loop": 6,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:30:40"
+    },
+    {
+        "abs_err_log": null,
+        "g": 30,
+        "is_log_format": true,
+        "log_val_im": -3.5905838676446096,
+        "log_val_re": 16.339175838241204,
+        "loop": 6,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:30:40"
+    },
+    {
+        "abs_err_log": null,
+        "g": 50,
+        "is_log_format": true,
+        "log_val_im": -10.908566446144032,
+        "log_val_re": 32.284140222561014,
+        "loop": 6,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:30:40"
+    },
+    {
+        "abs_err_log": null,
+        "g": 100,
+        "is_log_format": true,
+        "log_val_im": -10.481993927515065,
+        "log_val_re": 60.84891031724952,
+        "loop": 6,
+        "time_rec": 0.0,
+        "timestamp": "2026-04-29T08:30:40"
+    },
+    {
+        "abs_err_log": null,
+        "g": 999,
+        "is_log_format": true,
+        "log_val_im": 28.316610159103746,
+        "log_val_re": 487.5409299428819,
+        "loop": 6,
+        "time_rec": 0.016000032424926758,
+        "timestamp": "2026-04-29T08:30:40"
+    },
+    {
+        "abs_err_log": null,
+        "g": 1500,
+        "is_log_format": true,
+        "log_val_im": 72.76993874405801,
+        "log_val_re": 763.836180253383,
+        "loop": 6,
+        "time_rec": 0.06299996376037598,
+        "timestamp": "2026-04-29T08:30:40"
+    },
+    {
+        "abs_err_log": null,
+        "g": 15000,
+        "is_log_format": true,
+        "log_val_im": 224.58025991383926,
+        "log_val_re": 7520.123751451074,
+        "loop": 6,
+        "time_rec": 2.1070001125335693,
+        "timestamp": "2026-04-29T08:30:44"
+    },
+    {
+        "abs_err_log": null,
+        "g": 20000,
+        "is_log_format": true,
+        "log_val_im": 184.75559205631106,
+        "log_val_re": 9989.043285903092,
+        "loop": 6,
+        "time_rec": 12.407999992370605,
+        "timestamp": "2026-04-29T08:30:58"
+    },
+    {
+        "abs_err_log": null,
+        "g": 22000,
+        "is_log_format": true,
+        "log_val_im": 93.08195956710674,
+        "log_val_re": 11005.163282446158,
+        "loop": 6,
+        "time_rec": 19.865999937057495,
+        "timestamp": "2026-04-29T08:31:22"
+    },
+    {
+        "abs_err_log": null,
+        "g": 24000,
+        "is_log_format": true,
+        "log_val_im": 85.5818896088401,
+        "log_val_re": 11991.802374798131,
+        "loop": 6,
+        "time_rec": 22.638000011444092,
+        "timestamp": "2026-04-29T08:31:56"
+    },
+    {
+        "abs_err_log": null,
+        "g": 26000,
+        "is_log_format": true,
+        "log_val_im": 119.1341511096353,
+        "log_val_re": 12968.898550140158,
+        "loop": 6,
+        "time_rec": 20.78500008583069,
+        "timestamp": "2026-04-29T08:32:25"
+    }
+]
