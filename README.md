@@ -8,6 +8,8 @@ The Riemann theta function is central to mathematical physics and algebraic geom
 
 This engine breaks the exponential barrier by leveraging addition formulas for period matrices with a block-diagonal structure (S(2,2) locus). By recursively decomposing the genus into smaller subspaces and performing calculations in the complex log-domain, it achieves exact results for high-genus regimes that were previously computationally inaccessible.
 
+<a>Max g= 2 - 64 Solitons live demo <link>https://moriyamax.github.io/s22-theta-acceleration/<link></a>
+
 ## Key Features
 
 - Recursive Log-Decomposition: Decomposes a genus-g problem into smaller dimensions, reducing complexity from exponential to near-linear for specific matrix structures.
