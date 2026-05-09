@@ -3,7 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Solitons — Riemann Theta (RLD exact, g=2–64)</title>
+<title>Solitons via Riemann Theta Functions — S(2,2) block-diagonal exact, g=2–64</title>
+<meta name="description" content="Interactive KdV finite-gap soliton demo using exact Riemann theta function computation via S(2,2) block-diagonal RLD decomposition. Genus up to 64, real-time, no approximation within the structural class.">
+<meta name="keywords" content="Riemann theta function, KdV soliton, finite-gap, block-diagonal, S(2,2), RLD, Siegel, period matrix, integrable systems">
+<meta property="og:title" content="Solitons via Riemann Theta Functions — S(2,2) exact, g=2–64">
+<meta property="og:description" content="Real-time KdV soliton demo. Genus 64 Riemann theta computed exactly via S(2,2) block-diagonal decomposition. Interactive: adjust genus, N_cut, wave parameters.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://moriyamax.github.io/s22-theta-acceleration/">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;1,400&family=JetBrains+Mono:wght@300;400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
@@ -68,6 +74,14 @@ input[type=range]::-webkit-slider-thumb:hover{transform:scale(1.25)}
 .el .kw{color:var(--teal)}.el .fn{color:var(--accent)}.el .nm{color:var(--amber)}
 .note{font-size:0.58rem;color:var(--text3);line-height:1.8;margin-top:0.6rem}
 .note .hi{color:var(--text2)}
+.links{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:0.5rem}
+.lnk{font-family:var(--mono);font-size:0.62rem;padding:3px 9px;border-radius:2px;border:1px solid;letter-spacing:0.04em;text-decoration:none;transition:all 0.15s;display:inline-flex;align-items:center;gap:5px}
+.lnk:hover{opacity:0.8}
+.lnk-doi{border-color:rgba(45,212,160,0.5);color:var(--teal);background:rgba(45,212,160,0.07)}
+.lnk-gh{border-color:rgba(255,255,255,0.2);color:var(--text2);background:rgba(255,255,255,0.04)}
+.about{padding:1rem 1.3rem;border-top:1px solid var(--border);margin-top:auto}
+.about p{font-size:0.58rem;color:var(--text3);line-height:1.85}
+.about .hi{color:var(--text2)}
 @media(max-width:680px){.main{grid-template-columns:1fr}.canvas-area{border-right:none;border-bottom:1px solid var(--border)}.header{padding:1rem}}
 </style>
 </head>
@@ -76,6 +90,14 @@ input[type=range]::-webkit-slider-thumb:hover{transform:scale(1.25)}
   <div>
     <h1>Solitons via Riemann Theta Functions</h1>
     <div class="sub">KdV finite-gap · RLD recursive θ · S(2,2) block-diagonal · exact · g = 2–64</div>
+    <div class="links">
+      <a class="lnk lnk-doi" href="https://doi.org/10.5281/zenodo.20055127" target="_blank" rel="noopener">
+        <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20055127.svg" alt="DOI" style="height:14px;vertical-align:middle">
+      </a>
+      <a class="lnk lnk-gh" href="https://github.com/Moriyamax/s22-theta-acceleration" target="_blank" rel="noopener">
+        ⌥ GitHub
+      </a>
+    </div>
   </div>
   <div class="badges">
     <span class="badge bt">RLD exact</span>
@@ -210,6 +232,20 @@ input[type=range]::-webkit-slider-thumb:hover{transform:scale(1.25)}
         <span class="hi">Larger g</span>: more pad dims computed, same
         wave shape, longer eval time — demonstrates RLD scaling.<br>
         <span class="hi">N_cut≥2</span>: exponentially slower, higher accuracy.
+      </p>
+    </div>
+    <div class="about">
+      <p>
+        <span class="hi">What this is:</span> KdV finite-gap solitons computed via Riemann theta functions
+        using S(2,2) block-diagonal RLD decomposition. Exact within the structural class —
+        no approximation beyond floating-point rounding. genus 64 runs in real-time.<br><br>
+        <span class="hi">Try:</span> raise genus to 64 · increase N_cut for higher accuracy · vary κ parameters.<br><br>
+        <span class="hi">Paper:</span> Moriyama (2026)
+        <a href="https://doi.org/10.5281/zenodo.20055127" target="_blank" rel="noopener"
+           style="color:var(--teal);text-decoration:none">doi:10.5281/zenodo.20055127</a><br>
+        <span class="hi">Code:</span>
+        <a href="https://github.com/Moriyamax/s22-theta-acceleration" target="_blank" rel="noopener"
+           style="color:var(--accent);text-decoration:none">github/Moriyamax/s22-theta-acceleration</a>
       </p>
     </div>
   </div>
@@ -391,10 +427,9 @@ function togglePlay(){
 function resetTime(){t=0;document.getElementById('tSlider').value=0;}
 
 const presets = {
-  // kの値を少し大きくして、波形をハッキリさせる
   '1sol':{nSol:1,k1:1.2,k2:2.5,k3:2.5,k4:1.5,g:4, ncut:1,nx:80,speed:0.04,xRange:25},
   '2sol':{nSol:2,k1:1.0,k2:2.5,k3:2.5,k4:1.5,g:8, ncut:1,nx:80,speed:0.05,xRange:30},
-  // highg（g=64）は計算負荷が高いので nx を少し下げておくのが無難
+  '3sol':{nSol:3,k1:1.0,k2:2.0,k3:2.8,k4:1.5,g:8, ncut:1,nx:80,speed:0.04,xRange:35},
   'highg':{nSol:2,k1:1.2,k2:2.2,k3:2.5,k4:1.5,g:64,ncut:1,nx:30,speed:0.03,xRange:30},
 };
 function setPreset(name){
